@@ -7,4 +7,4 @@ Here is the gist of all my Deep Learning Projects
 
 3. Face Detection using PCA    https://github.com/sagnik765/Face-Detection
 
-4. Image Classification using CIFAR10    https://github.com/sagnik765/Image-Classification-using-Deep-Learning
+4. Image Classification using CIFAR10 dataset   https://github.com/sagnik765/Image-Classification-using-Deep-Learning
